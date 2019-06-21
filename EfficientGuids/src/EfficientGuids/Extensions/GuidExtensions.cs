@@ -1,4 +1,8 @@
-﻿using System;
+﻿// Code based on Steve Gordon's article:
+// https://www.stevejgordon.co.uk/using-high-performance-dotnetcore-csharp-techniques-to-base64-encode-a-guid
+
+
+using System;
 using System.Buffers.Text;
 using System.Runtime.InteropServices;
 using System.Text;
